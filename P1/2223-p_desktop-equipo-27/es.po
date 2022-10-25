@@ -1,0 +1,155 @@
+# Spanish translations for  2223-p_desktop-equipo-27 package
+# Traducciones al español para el paquete  2223-p_desktop-equipo-27.
+# Copyright (C) 2022 THE  2223-p_desktop-equipo-27'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the  2223-p_desktop-equipo-27 package.
+# Raúl <r.delblanco@udc.es>, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version:  2223-p_desktop-equipo-27\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-17 21:12+0200\n"
+"PO-Revision-Date: 2022-10-17 21:13+0200\n"
+"Last-Translator: Raúl <r.delblanco@udc.es>\n"
+"Language-Team: Spanish <es@tp.org.es>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: presenter.py:65
+msgid "HELP CHEAT.SH SEARCHER"
+msgstr "AYUDA BUSCADOR CHEAT.SH"
+
+#: presenter.py:65
+msgid ""
+"cheat.sh\n"
+"\n"
+"This application allows a simple search for different commands and their "
+"uses.\n"
+"Our application displays a search bar on the side by means of which searches "
+"will appear on the right hand side. In addition, it implements a selection "
+"of suggested commands that can be selected by simply clicking on them.\n"
+"Once the results are displayed, there is another search bar on top of the "
+"results, so that the desired command can be filtered.\n"
+"At the top, there is a toolbar with different options, such as opening a new "
+"window or closing the current window, among others.\n"
+msgstr ""
+"cheat.sh\n"
+"\n"
+"Esta aplicación permite una búsqueda sencilla de diferentes comandos y sus "
+"usos.\n"
+"Nuestra aplicación muestra una barra de búsqueda en el lateral mediante la cual realizan las búsquedas "
+"que aparecerán en la parte derecha. Además, esta implementa una selección "
+"de comandos sugeridos que se pueden seleccionar simplemente clicando.\n"
+"Una vez mostrados los resultados existe otra barra de búsqueda en cima de estos, "
+"para poder realizar un filtrado del comando deseado.\n"
+"En la parte superior, existe una barra de herramientas con distintas opciones, entre las que se "
+"encuentran abrir una ventana nueva o cerrar la ventana actual entre otras.\n"
+
+#: presenter.py:78
+msgid "ABOUT CHEAT.SH SEARCHER"
+msgstr "SOBRE BUSCADOR CHEAT.SH"
+
+#: presenter.py:78
+msgid ""
+"cheat.sh\n"
+"\n"
+"Cheat.sh searcher is a GUI for the web www.cheat.sh which includes:\n"
+" · A simple user interface.\n"
+" · Coverage on more than 56 programming languages, several DBMSes, and more "
+"than 1000 most important UNIX/Linux commands.\n"
+" · Provides access to the best community driven cheat sheets repositories in "
+"the world, on par with StackOverflow.\n"
+" · Supports a special stealth mode where it can be used fully invisibly "
+"without ever touching a key and making sounds.\n"
+" . On top of all that we offer 2 different ways on how you search your "
+"information: with a search bar and suggested commands.\n"
+" . Created by Raúl Fernánadez del Blanco,Armando Martínes Poya, Brais "
+"González Piñeiro\n"
+msgstr ""
+"Buscador Cheat.sh es un GUI para la web www.cheat.sh que incluye:\n"
+" · Una interfaz de usuario simple.\n"
+" · Cubre 56 lenguajes de programación, varios DBMS y más de 1000 de los "
+"comandos más importantes de UNIX/Linux\n"
+" · Brinda acceso a los mejores repositorios de hojas de comandos impulsados "
+"por la comunidad en el mundo, a la par con StackOverflow.\n"
+" · Admite un modo sigiloso especial donde se puede usar de forma totalmente invisible "
+"sin tocar nunca una tecla y hacer sonidos\n"
+" . Además de esto, ofrece 2 maneras diferentes de realizar la búsqueda de la "
+"información: con una barra de búsqueda o con comandos sugeridos.\n"
+" . Creado por Raúl Fernánadez del Blanco,Armando Martínes Poya, Brais "
+"González Piñeiro\n"
+
+#: view.py:58
+msgid "Cheat.sh Searcher"
+msgstr "Buscador Cheat.sh"
+
+#: view.py:79
+msgid "Search..."
+msgstr "Buscar..."
+
+#: view.py:84
+msgid "Filter the command... (Example: ls -a)"
+msgstr "Filtrar el comando... (Ejemplo: ls -a)"
+
+#: view.py:86
+msgid "Clear"
+msgstr "Limpiar"
+
+#: view.py:110
+msgid "File"
+msgstr "Archivo"
+
+#: view.py:111
+msgid "Help"
+msgstr "Ayuda"
+
+#: view.py:112
+msgid "View"
+msgstr "Ver"
+
+#: view.py:115
+msgid "New Window"
+msgstr "Nueva Ventana"
+
+#: view.py:116
+msgid "Close"
+msgstr "Cerrar"
+
+#: view.py:119
+msgid "See Help"
+msgstr "Ver Ayuda"
+
+#: view.py:120
+msgid "Send comments"
+msgstr "Enviar Comentarios"
+
+#: view.py:121
+msgid "About Cheat.sh"
+msgstr "Sobre Cheat.sh"
+
+#: view.py:124
+msgid "Light Mode"
+msgstr "Modo Claro"
+
+#: view.py:125
+msgid "Dark Mode"
+msgstr "Modo Oscuro"
+
+#: view.py:185
+msgid "Popular commands"
+msgstr "Comandos populares"
+
+#: view.py:375
+msgid "ERROR 404 NOT FOUND"
+msgstr "ERROR 404 NO ENCONTRADO"
+
+#: view.py:381
+msgid "ERROR: NO INTERNET CONNECTION"
+msgstr "ERROR: SIN CONEXIÓN A INTERNET"
+
+#: view.py:381
+msgid "NO CONNECTION"
+msgstr "SIN CONEXIÓN"

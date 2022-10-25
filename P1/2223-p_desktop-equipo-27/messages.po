@@ -1,0 +1,131 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-17 21:12+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: presenter.py:65
+msgid "HELP CHEAT.SH SEARCHER"
+msgstr ""
+
+#: presenter.py:65
+msgid ""
+"cheat.sh\n"
+"\n"
+"This application allows a simple search for different commands and their "
+"uses.\n"
+"Our application displays a search bar on the side by means of which searches "
+"will appear on the right hand side. In addition, it implements a selection "
+"of suggested commands that can be selected by simply clicking on them.\n"
+"Once the results are displayed, there is another search bar on top of the "
+"results, so that the desired command can be filtered.\n"
+"At the top, there is a toolbar with different options, such as opening a new "
+"window or closing the current window, among others.\n"
+msgstr ""
+
+#: presenter.py:78
+msgid "ABOUT CHEAT.SH SEARCHER"
+msgstr ""
+
+#: presenter.py:78
+msgid ""
+"cheat.sh\n"
+"\n"
+"Cheat.sh searcher is a GUI for the web www.cheat.sh which includes:\n"
+" · A simple user interface.\n"
+" · Coverage on more than 56 programming languages, several DBMSes, and more "
+"than 1000 most important UNIX/Linux commands.\n"
+" · Provides access to the best community driven cheat sheets repositories in "
+"the world, on par with StackOverflow.\n"
+" · Supports a special stealth mode where it can be used fully invisibly "
+"without ever touching a key and making sounds.\n"
+" . On top of all that we offer 2 different ways on how you search your "
+"information: with a search bar and suggested commands.\n"
+" . Created by Raúl Fernánadez del Blanco,Armando Martínes Poya, Brais "
+"González Piñeiro\n"
+msgstr ""
+
+#: view.py:58
+msgid "Cheat.sh Searcher"
+msgstr ""
+
+#: view.py:79
+msgid "Search..."
+msgstr ""
+
+#: view.py:84
+msgid "Filter the command... (Example: ls -a)"
+msgstr ""
+
+#: view.py:86
+msgid "Clear"
+msgstr ""
+
+#: view.py:110
+msgid "File"
+msgstr ""
+
+#: view.py:111
+msgid "Help"
+msgstr ""
+
+#: view.py:112
+msgid "View"
+msgstr ""
+
+#: view.py:115
+msgid "New Window"
+msgstr ""
+
+#: view.py:116
+msgid "Close"
+msgstr ""
+
+#: view.py:119
+msgid "See Help"
+msgstr ""
+
+#: view.py:120
+msgid "Send comments"
+msgstr ""
+
+#: view.py:121
+msgid "About Cheat.sh"
+msgstr ""
+
+#: view.py:124
+msgid "Light Mode"
+msgstr ""
+
+#: view.py:125
+msgid "Dark Mode"
+msgstr ""
+
+#: view.py:185
+msgid "Popular commands"
+msgstr ""
+
+#: view.py:375
+msgid "ERROR 404 NOT FOUND"
+msgstr ""
+
+#: view.py:381
+msgid "ERROR: NO INTERNET CONNECTION"
+msgstr ""
+
+#: view.py:381
+msgid "NO CONNECTION"
+msgstr ""
